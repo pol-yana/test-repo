@@ -1,0 +1,87 @@
+.header{
+    background-color: blue;
+}
+
+.logo_name{
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+    font-family:cursive;
+}
+.logo_button {
+    width: 20px;
+    height:20px;
+    margin-top: 10px;
+
+}
+.search{
+    background-color: cornflowerblue;
+    margin-top: 15px;
+    padding-top: 10px;
+}
+
+.page_nick{
+    margin: 5px; 
+}
+.page_nick_name{
+    font-size: 25;
+    font-weight: 500;
+}
+
+.page_nick_button > button{
+    width: 55px;
+    height: 20px;
+}
+
+.page_nick_img>img{
+    margin:5px;
+}
+
+.page_wall{
+    background-color: azure;
+    margin: 20px; 
+}
+
+.page_wall_button > button{
+    width: 75px;
+    height:25px;
+    padding: 5px;
+    margin-top: 10px ;
+}
+
+.menu_list_links>a{
+    margin:15px;
+    color:black;
+}
+
+/* ================= menu  ================ */
+
+.menu_list_links>a:hover{
+    text-decoration:none;
+}
+
+.menu_list_links_edit>a{
+    padding-left: 45px; 
+    color:cornflowerblue;
+}
+
+.menu_img> img{
+    width: 150px;
+    height: 150px;
+}
+
+.menu_list_links > img{
+    width: 20px;
+    height: 20px;
+    margin:0px 5px;
+}
+
+.menu_about_p{
+    color: grey;
+    font-size: 20px;
+    font-family:monospace;
+}
+
+.menu_about_button{
+    margin-right: 0px;
+}
